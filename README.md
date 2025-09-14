@@ -26,21 +26,6 @@
 
 ---
 
-## 📸 Demo
-
-Check out the live version here: [Live Demo](https://abolfazl-shadrouh.netlify.app)
-
-*(Place screenshot(s) or GIFs below to show product grid, filter modal, shopping cart animation, etc.)*
-
-<p align="center">
-  <img src="path/to/screenshot1.png" alt="Product Grid View" width="70%" />
-</p>
-<p align="center">
-  <img src="path/to/screenshot2.png" alt="Cart Modal / Product Detail" width="70%" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 - **HTML5** — Semantic markup & accessible structure  
